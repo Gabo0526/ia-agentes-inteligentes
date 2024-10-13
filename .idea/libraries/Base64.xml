@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Base64">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AgentesInteligentesJADE/lib/Agentes/Base64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AgentesInteligentesJADE/lib/Agentes/commons-codec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../AgentesInteligentesJADE/lib/Agentes/jade.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
