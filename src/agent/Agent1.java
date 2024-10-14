@@ -8,7 +8,7 @@ import utilidades.Message;
 import java.util.UUID;
 
 public class Agent1 extends Agent {
-    private String currentGeneration = "Ag3"; // Se le asigna un valor inicial, en este caso, el valor inicial es el agente 3;
+    private String currentGeneration = "Ag3"; // Se le asigna un valor inicial, en este caso, el valor inicial es el agente 3.
     private int count = 0;
 
     @Override
